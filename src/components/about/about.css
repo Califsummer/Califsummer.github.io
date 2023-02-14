@@ -1,0 +1,28 @@
+.image-cropper {
+    top: 180px;
+    left: 180px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  
+  img {
+    position: absolute;
+    
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
+
+  .about_socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    position: absolute;
+    left: 16rem;
+    bottom: 6rem;
+  }
