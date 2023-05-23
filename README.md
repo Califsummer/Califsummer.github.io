@@ -1,4 +1,4 @@
-# Personal website under constrcution at [http://Califsummer.github.io]  :)
+# Personal website under constrcution at http://Califsummer.github.io  :)
 
 
 
